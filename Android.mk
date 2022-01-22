@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),Wasp)
+ifeq ($(TARGET_DEVICE),WSP_sprout)
 
 endif
