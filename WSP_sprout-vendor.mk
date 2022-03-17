@@ -1394,7 +1394,6 @@ PRODUCT_PACKAGES += \
     TeeService \
     CellBroadcastAppPlatform \
     DataProtection \
-    FMRadio \
     GoogleFeedback \
     GoogleOneTimeInitializer \
     GoogleServicesFramework \
