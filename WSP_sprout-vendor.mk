@@ -6,7 +6,6 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/hmd/WSP_sprout
 
 PRODUCT_COPY_FILES += \
-    vendor/hmd/WSP_sprout/proprietary/system_ext/etc/compatconfig/settings-platform-compat-config.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/compatconfig/settings-platform-compat-config.xml \
     vendor/hmd/WSP_sprout/proprietary/system_ext/etc/custom.conf:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/custom.conf \
     vendor/hmd/WSP_sprout/proprietary/system_ext/etc/group:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/group \
     vendor/hmd/WSP_sprout/proprietary/system_ext/etc/permissions/com.android.carrierconfig.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.android.carrierconfig.xml \
