@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/hmd/WSP_sprout/proprietary/vendor/app/mcRegistry/08030000000000000000000000000000.tabin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/08030000000000000000000000000000.tabin \
     vendor/hmd/WSP_sprout/proprietary/vendor/app/mcRegistry/08110000000000000000000000000000.tabin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/08110000000000000000000000000000.tabin \
     vendor/hmd/WSP_sprout/proprietary/vendor/app/mcRegistry/09190000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/09190000000000000000000000000000.tlbin \
-    vendor/hmd/WSP_sprout/proprietary/vendor/bin/applypatch:$(TARGET_COPY_OUT_VENDOR)/bin/applypatch \
     vendor/hmd/WSP_sprout/proprietary/vendor/bin/atcid:$(TARGET_COPY_OUT_VENDOR)/bin/atcid \
     vendor/hmd/WSP_sprout/proprietary/vendor/bin/audiocmdservice_atci:$(TARGET_COPY_OUT_VENDOR)/bin/audiocmdservice_atci \
     vendor/hmd/WSP_sprout/proprietary/vendor/bin/autobt:$(TARGET_COPY_OUT_VENDOR)/bin/autobt \
