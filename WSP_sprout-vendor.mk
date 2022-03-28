@@ -45,12 +45,6 @@ PRODUCT_COPY_FILES += \
     vendor/hmd/WSP_sprout/proprietary/system_ext/lib/vendor.mediatek.hardware.mtkradioex@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/system_ext/lib/vendor.mediatek.hardware.mtkradioex@1.0.so \
     vendor/hmd/WSP_sprout/proprietary/system_ext/lib64/vendor.mediatek.hardware.gpu@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/system_ext/lib64/vendor.mediatek.hardware.gpu@1.0.so \
     vendor/hmd/WSP_sprout/proprietary/system_ext/lib64/vendor.mediatek.hardware.mtkradioex@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/system_ext/lib64/vendor.mediatek.hardware.mtkradioex@1.0.so \
-    vendor/hmd/WSP_sprout/proprietary/vendor/app/GoogleNetworkStackResOverlay/GoogleNetworkStackResOverlay.apk:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/GoogleNetworkStackResOverlay/GoogleNetworkStackResOverlay.apk \
-    vendor/hmd/WSP_sprout/proprietary/vendor/app/GoogleTetheringResOverlay/GoogleTetheringResOverlay.apk:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/GoogleTetheringResOverlay/GoogleTetheringResOverlay.apk \
-    vendor/hmd/WSP_sprout/proprietary/vendor/app/InProcessTetheringResOverlay/InProcessTetheringResOverlay.apk:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/InProcessTetheringResOverlay/InProcessTetheringResOverlay.apk \
-    vendor/hmd/WSP_sprout/proprietary/vendor/app/NetworkStackInProcessResOverlay/NetworkStackInProcessResOverlay.apk:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/NetworkStackInProcessResOverlay/NetworkStackInProcessResOverlay.apk \
-    vendor/hmd/WSP_sprout/proprietary/vendor/app/NetworkStackResOverlay/NetworkStackResOverlay.apk:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/NetworkStackResOverlay/NetworkStackResOverlay.apk \
-    vendor/hmd/WSP_sprout/proprietary/vendor/app/TetheringResOverlay/TetheringResOverlay.apk:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/TetheringResOverlay/TetheringResOverlay.apk \
     vendor/hmd/WSP_sprout/proprietary/vendor/app/mcRegistry/020f0000000000000000000000000000.drbin:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/mcRegistry/020f0000000000000000000000000000.drbin \
     vendor/hmd/WSP_sprout/proprietary/vendor/app/mcRegistry/020f0000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/mcRegistry/020f0000000000000000000000000000.tlbin \
     vendor/hmd/WSP_sprout/proprietary/vendor/app/mcRegistry/030b0000000000000000000000000000.drbin:$(TARGET_COPY_OUT_SYSTEM)/vendor/app/mcRegistry/030b0000000000000000000000000000.drbin \
